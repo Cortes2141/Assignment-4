@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  genre: MyString
+  year: MyString
+  artist: one
+  label: one
+  added: 2018-07-12 22:16:20
+  play: 1
+
+two:
+  name: MyString
+  genre: MyString
+  year: MyString
+  artist: two
+  label: two
+  added: 2018-07-12 22:16:20
+  play: 1
